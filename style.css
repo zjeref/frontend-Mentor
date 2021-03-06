@@ -3,6 +3,7 @@ body {
   font-family: Poppins;
   color: hsl(234, 12%, 34%);
   box-sizing: border-box;
+  background-color: #4c4e61;
 }
 .body-padding {
   padding: 10px;
